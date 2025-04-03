@@ -1,0 +1,306 @@
+{
+    "regulatory--keep-right": {
+        "classIndex": 0,
+        "count": 728
+    },
+    "regulatory--height-limit": {
+        "classIndex": 1,
+        "count": 463
+    },
+    "warning--railroad-crossing-with-barriers": {
+        "classIndex": 2,
+        "count": 274
+    },
+    "warning--falling-rocks-or-debris-right": {
+        "classIndex": 3,
+        "count": 236
+    },
+    "regulatory--yield": {
+        "classIndex": 4,
+        "count": 1676
+    },
+    "warning--curve-right": {
+        "classIndex": 5,
+        "count": 340
+    },
+    "regulatory--pedestrians-only": {
+        "classIndex": 6,
+        "count": 240
+    },
+    "warning--pedestrians-crossing": {
+        "classIndex": 7,
+        "count": 466
+    },
+    "regulatory--no-entry": {
+        "classIndex": 8,
+        "count": 1024
+    },
+    "warning--slippery-road-surface": {
+        "classIndex": 9,
+        "count": 352
+    },
+    "warning--curve-left": {
+        "classIndex": 10,
+        "count": 317
+    },
+    "information--parking": {
+        "classIndex": 11,
+        "count": 1157
+    },
+    "information--tram-bus-stop": {
+        "classIndex": 12,
+        "count": 157
+    },
+    "warning--crossroads": {
+        "classIndex": 13,
+        "count": 309
+    },
+    "regulatory--stop": {
+        "classIndex": 14,
+        "count": 968
+    },
+    "regulatory--maximum-speed-limit": {
+        "classIndex": 15,
+        "count": 3720
+    },
+    "regulatory--turn-right": {
+        "classIndex": 16,
+        "count": 438
+    },
+    "warning--roundabout": {
+        "classIndex": 17,
+        "count": 278
+    },
+    "warning--road-bump": {
+        "classIndex": 18,
+        "count": 434
+    },
+    "warning--uneven-road": {
+        "classIndex": 19,
+        "count": 284
+    },
+    "warning--railroad-crossing-without-barriers": {
+        "classIndex": 20,
+        "count": 361
+    },
+    "regulatory--bicycles-only": {
+        "classIndex": 21,
+        "count": 357
+    },
+    "regulatory--yield-to-oncoming-traffic": {
+        "classIndex": 22,
+        "count": 243
+    },
+    "regulatory--shared-path-pedestrians-and-bicycles": {
+        "classIndex": 23,
+        "count": 812
+    },
+    "regulatory--no-bicycles": {
+        "classIndex": 24,
+        "count": 245
+    },
+    "regulatory--no-pedestrians": {
+        "classIndex": 25,
+        "count": 313
+    },
+    "regulatory--no-overtaking": {
+        "classIndex": 26,
+        "count": 440
+    },
+    "regulatory--keep-left": {
+        "classIndex": 27,
+        "count": 398
+    },
+    "regulatory--go-straight": {
+        "classIndex": 28,
+        "count": 386
+    },
+    "regulatory--no-parking": {
+        "classIndex": 29,
+        "count": 243
+    },
+    "regulatory--no-right-turn": {
+        "classIndex": 30,
+        "count": 406
+    },
+    "regulatory--no-left-turn": {
+        "classIndex": 31,
+        "count": 420
+    },
+    "complementary--chevron-left": {
+        "classIndex": 32,
+        "count": 510
+    },
+    "regulatory--no-heavy-goods-vehicles": {
+        "classIndex": 33,
+        "count": 427
+    },
+    "regulatory--weight-limit": {
+        "classIndex": 34,
+        "count": 341
+    },
+    "regulatory--no-u-turn": {
+        "classIndex": 35,
+        "count": 282
+    },
+    "warning--other-danger": {
+        "classIndex": 36,
+        "count": 433
+    },
+    "warning--junction-with-a-side-road-perpendicular-right": {
+        "classIndex": 37,
+        "count": 344
+    },
+    "warning--double-curve-first-right": {
+        "classIndex": 38,
+        "count": 286
+    },
+    "regulatory--turn-left": {
+        "classIndex": 39,
+        "count": 325
+    },
+    "warning--roadworks": {
+        "classIndex": 40,
+        "count": 451
+    },
+    "warning--children": {
+        "classIndex": 41,
+        "count": 369
+    },
+    "warning--traffic-merges-right": {
+        "classIndex": 42,
+        "count": 270
+    },
+    "warning--road-narrows-right": {
+        "classIndex": 43,
+        "count": 243
+    },
+    "information--motorway": {
+        "classIndex": 44,
+        "count": 328
+    },
+    "regulatory--pass-on-either-side": {
+        "classIndex": 45,
+        "count": 138
+    },
+    "warning--bicycles-crossing": {
+        "classIndex": 46,
+        "count": 236
+    },
+    "complementary--distance": {
+        "classIndex": 47,
+        "count": 371
+    },
+    "regulatory--go-straight-or-turn-right": {
+        "classIndex": 48,
+        "count": 263
+    },
+    "regulatory--go-straight-or-turn-left": {
+        "classIndex": 49,
+        "count": 265
+    },
+    "regulatory--no-motor-vehicles": {
+        "classIndex": 50,
+        "count": 241
+    },
+    "complementary--chevron-right": {
+        "classIndex": 51,
+        "count": 332
+    },
+    "information--disabled-persons": {
+        "classIndex": 52,
+        "count": 296
+    },
+    "regulatory--no-goods-vehicles": {
+        "classIndex": 53,
+        "count": 222
+    },
+    "regulatory--roundabout": {
+        "classIndex": 54,
+        "count": 392
+    },
+    "regulatory--no-goods-vehicles-exceeding-limit": {
+        "classIndex": 55,
+        "count": 210
+    },
+    "warning--traffic-signals": {
+        "classIndex": 56,
+        "count": 303
+    },
+    "warning--road-narrows": {
+        "classIndex": 57,
+        "count": 269
+    },
+    "warning--road-narrows-left": {
+        "classIndex": 58,
+        "count": 245
+    },
+    "information--gas-station": {
+        "classIndex": 59,
+        "count": 232
+    },
+    "regulatory--axel-mass-limit": {
+        "classIndex": 60,
+        "count": 215
+    },
+    "warning--delineator": {
+        "classIndex": 61,
+        "count": 207
+    },
+    "warning--wild-animals": {
+        "classIndex": 62,
+        "count": 237
+    },
+    "warning--domestic-animals": {
+        "classIndex": 63,
+        "count": 233
+    },
+    "regulatory--turn-left-or-right": {
+        "classIndex": 64,
+        "count": 202
+    },
+    "warning--road-slope-left": {
+        "classIndex": 65,
+        "count": 208
+    },
+    "warning--double-curve-first-left": {
+        "classIndex": 66,
+        "count": 273
+    },
+    "regulatory--no-buses": {
+        "classIndex": 67,
+        "count": 233
+    },
+    "warning--falling-rocks-or-debris-left": {
+        "classIndex": 68,
+        "count": 211
+    },
+    "warning--delineator--right": {
+        "classIndex": 69,
+        "count": 200
+    },
+    "warning--delineator--left": {
+        "classIndex": 70,
+        "count": 213
+    },
+    "warning--junction-with-a-side-road-perpendicular-left": {
+        "classIndex": 71,
+        "count": 275
+    },
+    "warning--road-dip": {
+        "classIndex": 72,
+        "count": 208
+    },
+    "warning--road-slope-right": {
+        "classIndex": 73,
+        "count": 207
+    },
+    "warning--traffic-merges-left": {
+        "classIndex": 74,
+        "count": 205
+    },
+    "information--hospital": {
+        "classIndex": 75,
+        "count": 198
+    }
+}
